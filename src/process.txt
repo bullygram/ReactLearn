@@ -1,0 +1,15 @@
+We are working on error boundries. ans it is a new concept in react v16.
+
+previously when a error happense in component level,  it resulted in app to be crashed,
+
+And error boundries help in avoiding it and hepls in showing "Something went wrong" text and so on.
+
+
+1. we create a ErrorBoundries component.
+
+2. Here in constructor, we allow the props to be flowin through, by assigning props as parameter in constructor and super.
+
+3. ane we create a  componentDidCatch(error, info){} block to catch error. and in case yes, we setState({hasError:true})
+
+3. And then we create a render function that either returns the error text, based on the setState, or the app flow itself coming through ErrorBoundries as props.
+it is much like enclosing app inside of ErrorBoundries tag.

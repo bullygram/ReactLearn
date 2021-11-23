@@ -1,0 +1,13 @@
+1. we need the components to inter communicate, we create a text box and cardlist.
+2. all of the intercommunication should happen using the parent.
+3. Now we need a memory to hold the state of the app. And we call it state,
+4. Now we need to create a state in parent so that we can passit as properties to component.
+5. In the parent class we create a constructor and create and initialize a state object.
+6. State are mutable and props are not changable.
+
+7.Now we can feed the data from the state to the prop in the parent, using "this.state-dec.value.
+previousely we directly fed the data directly without state
+
+8. Now in part one we saw how using state we feed data into props. and in part two we focus on sending data into state.
+9. as follows, we create a method to record events/changes on the textbox. and pass it as prop to search box component 
+here in the method onsetchange method, we update the state field variable. and make changes to the cardlist.
