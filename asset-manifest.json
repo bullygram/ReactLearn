@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bullygram/ReactLearn/static/css/main.f40c8798.chunk.css",
+    "main.js": "/bullygram/ReactLearn/static/js/main.ffeae31b.chunk.js",
+    "main.js.map": "/bullygram/ReactLearn/static/js/main.ffeae31b.chunk.js.map",
+    "runtime-main.js": "/bullygram/ReactLearn/static/js/runtime-main.38c90ed2.js",
+    "runtime-main.js.map": "/bullygram/ReactLearn/static/js/runtime-main.38c90ed2.js.map",
+    "static/css/2.31461e4f.chunk.css": "/bullygram/ReactLearn/static/css/2.31461e4f.chunk.css",
+    "static/js/2.b4fbba43.chunk.js": "/bullygram/ReactLearn/static/js/2.b4fbba43.chunk.js",
+    "static/js/2.b4fbba43.chunk.js.map": "/bullygram/ReactLearn/static/js/2.b4fbba43.chunk.js.map",
+    "static/js/3.35021bcd.chunk.js": "/bullygram/ReactLearn/static/js/3.35021bcd.chunk.js",
+    "static/js/3.35021bcd.chunk.js.map": "/bullygram/ReactLearn/static/js/3.35021bcd.chunk.js.map",
+    "index.html": "/bullygram/ReactLearn/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/bullygram/ReactLearn/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.f40c8798.chunk.css.map": "/bullygram/ReactLearn/static/css/main.f40c8798.chunk.css.map",
+    "static/js/2.b4fbba43.chunk.js.LICENSE.txt": "/bullygram/ReactLearn/static/js/2.b4fbba43.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bullygram/ReactLearn/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38c90ed2.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.b4fbba43.chunk.js",
+    "static/css/main.f40c8798.chunk.css",
+    "static/js/main.ffeae31b.chunk.js"
+  ]
+}
